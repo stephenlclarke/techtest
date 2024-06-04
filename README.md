@@ -26,7 +26,7 @@ So that I can make myself a 2nd cup of coffee! 😂 <br>
   - As you work through the tasks **create individual commits for each step**.
   - Create a pull request back to this repo to submit your results.  Please **do not** squash the commits.
   - Deployment instructions in the READme.md.
-- Do **only** as much as **you** want to do. **Do not** feel that you have to complete **all** the tasks, although Task 4 is quite importante.
+- Do **only** as much as **you** want to do. **Do not** feel that you have to complete **all** the tasks, although Task 4 is quite important.
 
 ### Task 1 - Ansible Server ###
 
