@@ -31,6 +31,7 @@ So that I can make myself a 2nd cup of coffee! 😂 <br>
 - Create Pull Requests back to main for each task branch.
   - Please **do not** squash the commits for the Pull Requests and **do not** merge them either. We will do a code review when you have finished.
 - Do **only** as much as **you** want to do. **do not** feel that you have to complete **all** the tasks, although Task 5 is quite important.
+- When you have finished do a `terraform destroy`
 
 ### Task 1 - Terraform / Ansible Server ###
 
